@@ -1,0 +1,30 @@
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.exe
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.deps.json
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.runtimeconfig.json
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.dll
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.pdb
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.AssemblyInfoInputs.cache
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.AssemblyInfo.cs
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.csproj.CoreCompileInputs.cache
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.dll
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\refint\Chess_Game.dll
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.pdb
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.genruntimeconfig.cache
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\ref\Chess_Game.dll
+C:\Users\sp469\OneDrive\Documentos\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.sourcelink.json
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.exe
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.deps.json
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.runtimeconfig.json
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.dll
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\bin\Debug\net8.0\Chess_Game.pdb
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.AssemblyInfoInputs.cache
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.AssemblyInfo.cs
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.sourcelink.json
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.dll
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\refint\Chess_Game.dll
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.pdb
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\Chess_Game.genruntimeconfig.cache
+C:\Users\Samuel Patrick\Documents\backup Samuel\Projetos C#\Chess_Game\Chess_Game\obj\Debug\net8.0\ref\Chess_Game.dll
