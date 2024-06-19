@@ -47,7 +47,7 @@ namespace board
             return allowedMoves()[pos.line, pos.column];
         }
 
-        //Abstract classes can only be extends, can be alterated in other classes 
+        //Abstract classes can only be extends, can be alterated just in other classes 
         public abstract bool[,] allowedMoves();
     
     }

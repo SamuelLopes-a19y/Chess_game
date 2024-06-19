@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin",
-    "\\obj"
+    "\\Chess_Game",
+    "\\Chess_Game\\Chess"
   ],
+  "SelectedNode": "\\Chess_Game.sln",
   "PreviewInSolutionExplorer": false
 }

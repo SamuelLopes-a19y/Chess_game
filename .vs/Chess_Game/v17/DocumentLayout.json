@@ -1,7 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\chessmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\chessmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\board\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\board\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\chess\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\chess\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\board\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\board\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|c:\\users\\samuel patrick\\documents\\backup samuel\\projetos c#\\chess_game\\chess_game\\board\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129255B5-C863-4A4D-97E4-52C570FC4902}|Chess_Game\\Chess_Game.csproj|solutionrelative:chess_game\\board\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +58,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Board\\Board.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Board\\Board.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Board\\Board.cs",
+              "RelativeToolTip": "Chess_Game\\Board\\Board.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:17:35.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChessMatch.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\ChessMatch.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\ChessMatch.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\ChessMatch.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\ChessMatch.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAowPoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:14:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Program.cs",
+              "RelativeToolTip": "Chess_Game\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:11:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Rook.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\Rook.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Rook.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\Rook.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:02:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Knight.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\Knight.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Knight.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\Knight.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:16:37.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Pawn.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\Pawn.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Pawn.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\Pawn.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAD4vzkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:17:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Bishop.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\Bishop.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Bishop.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\Bishop.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:16:10.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Queen.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\Queen.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\Queen.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\Queen.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwHUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:18:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\King.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Chess\\King.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Chess\\King.cs",
+              "RelativeToolTip": "Chess_Game\\Chess\\King.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:40:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Screen.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Screen.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Screen.cs",
+              "RelativeToolTip": "Chess_Game\\Screen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:20:38.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Board\\Position.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Board\\Position.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Board\\Position.cs",
+              "RelativeToolTip": "Chess_Game\\Board\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:30:37.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Board\\Piece.cs",
+              "RelativeDocumentMoniker": "Chess_Game\\Board\\Piece.cs",
+              "ToolTip": "C:\\Users\\Samuel Patrick\\Documents\\backup Samuel\\Projetos C#\\Chess_Game\\Chess_Game\\Board\\Piece.cs",
+              "RelativeToolTip": "Chess_Game\\Board\\Piece.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwDEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:15:04.067Z"
             }
           ]
         }
