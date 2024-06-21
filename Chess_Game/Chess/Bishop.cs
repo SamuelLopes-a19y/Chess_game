@@ -11,7 +11,7 @@ namespace Chess_Game.Chess
 
         public override string ToString()
         {
-            return "K";
+            return "B";
         }
 
         private bool canMove(Position pos)
