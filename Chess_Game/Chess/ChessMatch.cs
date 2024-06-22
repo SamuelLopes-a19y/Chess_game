@@ -153,7 +153,7 @@ namespace chess
                     pieces.Add(queen);
                 } 
             }
-
+                
             if (inCheck(adversary(CurrentPlayer)))
             {
                 check = true;
