@@ -137,6 +137,23 @@ namespace chess
                 undoMoviment(origin, target, capturedPiece);
                 throw new BoardException("You can't put yourself in check!");
             }
+
+            Piece p = board.piece(target);
+
+            //# Special Play: Promotion
+            if (p is Pawn)
+            {
+                if((p.color == Color.White && target.line == 0) || (p.color == Color.Black && target.line == 7))
+                {
+                    p = board.removePiece(target);
+                    pieces.Remove(p);
+                    //User can choose which piece it wants -  implement after
+                    Piece queen = new Queen(board, p.color);
+                    board.putPiece(queen, target);
+                    pieces.Add(queen);
+                } 
+            }
+
             if (inCheck(adversary(CurrentPlayer)))
             {
                 check = true;
@@ -155,7 +172,7 @@ namespace chess
                 changePlayer();
             }
 
-            Piece p = board.piece(target);
+            
 
             //# Special Play: En Passant
             if (p is Pawn && (target.line == origin.line - 2 || target.line == origin.line + 2))
